@@ -3,4 +3,8 @@
 
 Using ChartJS with Xamarin iOS.
 
-![alt tag](https://github.com/YuriAkiraH/iOSChartJS/blob/master/iOSChartJS/Resources/iOSChartJS_Doughnut.png)
+
+
+<p align="center">
+  <img src="https://github.com/YuriAkiraH/iOSChartJS/blob/master/iOSChartJS/Resources/iOSChartJS_Doughnut.png" width="350"/>
+</p>
