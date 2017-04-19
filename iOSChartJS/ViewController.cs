@@ -73,7 +73,7 @@ namespace iOSChartJS
             chartView.Opaque = false;
             chartView.ScrollView.ScrollEnabled = false;
             chartView.ScrollView.Bounces = false;
-            
+
             this.View.AddSubview(chartView);
         }
 
