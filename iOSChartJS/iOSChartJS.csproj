@@ -116,7 +116,9 @@
     <Content Include="ChartJS\Chart.min.js" />
     <Content Include="ChartJS\style.css" />
     <Content Include="Entitlements.plist" />
-    <BundleResource Include="Resources\iOSChartJS_Doughnut.png" />
+    <BundleResource Include="Resources\ChartJS_Image_03.png" />
+    <BundleResource Include="Resources\ChartJS_Image_01.png" />
+    <BundleResource Include="Resources\ChartJS_Image_02.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>
